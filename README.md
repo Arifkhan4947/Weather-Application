@@ -54,8 +54,8 @@
 ## Contact
   If you have any questions or need further assistance, feel free to contact me:
 
-Email: your-email@example.com
-GitHub: your-username
+Email: khanarif2738@gmail.com
+GitHub: Arifkhan4947
 
 
 
